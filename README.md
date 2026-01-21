@@ -17,8 +17,6 @@
 
   ---
   
- # [![whatsapp](https://img.shields.io/badge/whatsapp-005571?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Ka6WKpDdKIxInvpLBO1nCB)
-  
 
   <p align="center">
     <a href="docs/TECHNICAL.md"><strong>📚 Documentation</strong></a> •
