@@ -1,12 +1,12 @@
 <div align="center">
  
-  <img src="https://github.com/user-attachments/assets/d56e056f-8670-46d4-8b2f-e201102a19b0" width="400" alt="AstraGuard AI Logo">
+  <img src="https://github.com/user-attachments/assets/d56e056f-8670-46d4-8b2f-e201102a19b0" width="139" alt="AstraGuard AI Logo">
 
   # AstraGuard AI
   
   ### AI-Powered Satellite Security & Anomaly Detection System
   
-  **ECWoC '26 Featured Project**
+
 
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
