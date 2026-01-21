@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://github.com/user-attachments/assets/d56e056f-8670-46d4-8b2f-e201102a19b0" width="400" alt="AstraGuard AI Logo">
+  <img src="https://github.com/user-attachments/assets/d56e056f-8670-46d4-8b2f-e201102a19b0" width="250" alt="AstraGuard AI Logo">
 
   # AstraGuard AI
   
@@ -17,8 +17,7 @@
 
   ---
   
- # [![whatsapp](https://img.shields.io/badge/whatsapp-005571?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Ka6WKpDdKIxInvpLBO1nCB)
-  
+
 
   <p align="center">
     <a href="docs/TECHNICAL.md"><strong>📚 Documentation</strong></a> •
